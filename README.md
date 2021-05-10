@@ -9,6 +9,6 @@
 - 👯 I'm looking to collaborate on: Open source projects and challenges
 - 🤔 I'm looking for help with: Finding mentors and job oppourtunities
 - 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/romanhyde/)
+- 📫 Find me elsewhere: [LinkedIn](https://www.linkedin.com/in/romanhyde/) | [My Tech Blog](https://dev.mrhyde.io/) | [Code Wars](https://www.codewars.com/users/MrHyde)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a friend you've not met yet.
