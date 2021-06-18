@@ -5,7 +5,8 @@
 - 🚘 **Check out my roadmap**: [Roman's Junior Developer Roadmap](https://www.notion.so/3d56b2f1a0fb4acc8f1272426f6b53e5?v=2cea97675e1e4e319a5eec0bced3e293)
 - 📝 **I'm currently working on:** Code Nation 12-Week Master Course (Bootcamp), Udacity BIT Scholarship Challenge: Data Science, Udacity SUSE Cloud Native Scholarship Challenge & [my tech blog](https://dev.mrhyde.io/)
 
-- 🌱 **I'm currently learning:** Javascript, React, Handlebars, Typescript, Azure Cloud (AI and Cloud fundamentals), AWS
+- 🌱 **I'm currently learning:**  Handlebars, Typescript, Azure Cloud (Cloud fundamentals), AWS
+- 👨‍💻 **Skills:** Python, Javascript, React, HTML, CSS/SASS, Azure Cloud (AI fundamentals certified), SQL (postgreSQL) 
 - 👯 I'm looking to collaborate on: Open source projects and challenges
 - 🤔 I'm looking for help with: Finding mentors and job oppourtunities
 - 💬 Ask me about: Baking, Language Aquisition through Immersion, DEI in the workplace and PLEA
